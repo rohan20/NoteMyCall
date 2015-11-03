@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.rohan.notemycall.ViewNotes">
+
+    <item
+        android:id="@+id/action_deleteAll"
+        android:title="Delete All Notes"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+</menu>
